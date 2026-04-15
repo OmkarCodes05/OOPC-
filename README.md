@@ -1,7 +1,7 @@
 # 💻 OOP C++
 
 ## 📖 Description
-This repository contains **Object-Oriented Programming (OOP) C++ practical programs** for **1st Year Semester-1 (2024–25)**.
+This repository contains **Object-Oriented Programming (OOP) C++ practical programs** for **VPKBIET 1st Year Semester-1 (2024–25)**.
 
 All programs are implemented by **Omkar Kaware** as part of the practical examination and coursework. This repository serves as a reference for students to understand fundamental OOP concepts using C++.
 
