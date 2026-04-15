@@ -41,6 +41,7 @@ cd oopc
 g++ program.cpp -o program
 ▶️ Run the Program
 ./program
+```
 🎯 Objective
 To understand core OOP concepts
 To provide practical exam reference programs
